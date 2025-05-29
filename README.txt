@@ -55,3 +55,7 @@ ok ya esta lo unico que falta es agregar la simulacion por tiempo de cada partid
 
 -- 4to prompt:
 Perfecto, como ultima correcion el maximo que puede durar un partido es de 2 segundos y hay partidos que duraron 5
+
+
+-- 5to prompt:
+Como ultimo paso quiero que los octavos de final sea el primer jugador con el ultimo y asi( ejm: 1 vs 16, 2 vs 15, etc)
